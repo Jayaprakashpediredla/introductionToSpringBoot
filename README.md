@@ -4,7 +4,7 @@ Give me total details and explain each concept clearly and in detail with real w
 
 PHASE 1 - Basics
 
-• Creating a spring boot project using spring initializr
+• Creating a spring boot project using spring initializr 
 • Maven and gradle build tools
 • Annotations
 • Profiles and environment-specific configurations
